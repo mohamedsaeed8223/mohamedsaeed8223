@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mohamedsaeed8223
-- 👀 I’m interested in ML for Audio/ Reinforcement Learning/ and many other NLP and AI topics
+- 👀 I’m interested in Computer Vision/ Reinforcement Learning/ and many other NLP and AI topics
 - 🌱 I’m currently learning NLP and Transformers Architecture 
 - 💞️ I’m looking to collaborate on Audio and NLP projects
 - 📫 feel free to reach out to me on linkedin
